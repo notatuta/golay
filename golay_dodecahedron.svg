@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1"
+  baseprofile="full"
+  xmlns="http://www.w3.org/2000/svg"
+  width="890"
+  height="557"
+  viewBox="0 0 890 557"
+>
+<polygon points="    0,248.99  30.9,153.89 130.9,153.89 161.8,248.99  80.9,307.77" style="fill:lightgrey;stroke:black" />
+<polygon points="161.8,248.99 192.7,153.89 292.7,153.89 323.6,248.99 242.7,307.77" style="fill:lightgrey;stroke:black" />
+<polygon points="323.6,248.99 354.5,153.89 454.3,153.89 485.4,248.99 404.5,307.77" style="fill:lightgrey;stroke:black" />
+<polygon points="485.4,248.99 516.3,153.89 616.3,153.89 647.2,248.99 566.3,307.77" style="fill:lightgrey;stroke:black" />
+<polygon points="647.2,248.99 678.1,153.89 778.1,153.89   809,248.99 728.1,307.77" style="fill:lightgrey;stroke:black" />
+
+<polygon points=" 80.9,307.77 161.8,248.99 242.7,307.77 211.8,402.88 111.8,402.88" style="fill:lightgrey;stroke:black" />
+<polygon points="242.7,307.77 323.6,248.99 404.5,307.77 373.6,402.88 273.6,402.88" style="fill:lightgrey;stroke:black" />
+<polygon points="404.5,307.77 485.4,248.99 566.3,307.77 535.4,402.88 435.4,402.88" style="fill:lightgrey;stroke:black" />
+<polygon points="566.3,307.77 647.2,248.99 728.1,307.77 697.2,402.88 597.2,402.88" style="fill:lightgrey;stroke:black" />
+<polygon points="728.1,307.77 809  ,248.99 889.9,307.77   859,402.88   759,402.88" style="fill:lightgrey;stroke:black" />
+
+<polygon points="323.6,58.78  354.5,153.89 454.3,153.89 485.4,58.78  404.5,0     " style="fill:lightgrey;stroke:black" />
+<polygon points="404.5,497.99 485.4,556.77 566.3,497.99 535.4,402.88 435.4,402.88" style="fill:lightgrey;stroke:black" />
+
+<text x="80.9"  y="222.71"  text-anchor="middle" dy="+.3em" font-size="200%">A</text>text>
+<text x="242.7" y="222.71"  text-anchor="middle" dy="+.3em" font-size="200%">C</text>text>
+<text x="404.5" y="222.71"  text-anchor="middle" dy="+.3em" font-size="200%">E</text>text>
+<text x="566.3" y="222.71"  text-anchor="middle" dy="+.3em" font-size="200%">G</text>text>
+<text x="728.1" y="222.71"  text-anchor="middle" dy="+.3em" font-size="200%">I</text>text>
+<text x="161.8" y="334.055" text-anchor="middle" dy="+.3em" font-size="200%">B</text>text>
+<text x="323.6" y="334.055" text-anchor="middle" dy="+.3em" font-size="200%">D</text>text>
+<text x="485.4" y="334.055" text-anchor="middle" dy="+.3em" font-size="200%">F</text>text>
+<text x="647.2" y="334.055" text-anchor="middle" dy="+.3em" font-size="200%">H</text>text>
+<text x="809"   y="334.055" text-anchor="middle" dy="+.3em" font-size="200%">J</text>text>
+<text x="404.5" y="85.065"  text-anchor="middle" dy="+.3em" font-size="200%">K</text>text>
+<text x="485.4" y="471.705" text-anchor="middle" dy="+.3em" font-size="200%">L</text>text>
+
+</svg>
